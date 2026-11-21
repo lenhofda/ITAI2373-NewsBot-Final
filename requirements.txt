@@ -1,1 +1,16 @@
-
+main external libraries my notebook uses
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+matplotlib
+seaborn
+wordcloud
+plotly
+networkx
+torch
+transformers
+sentence-transformers
+langdetect
+sentencepiece
